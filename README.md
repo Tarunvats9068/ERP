@@ -69,7 +69,7 @@ The Products Management page allows you to manage products:
 
 1. View a list of products with details such as name, category, price, and stock quantity.
 2. Add new products.
-![Add Product](https://github.com/Tarunvats9068/ERP/public/AddProduct.jpg)
+![Add Product]((https://github.com/Tarunvats9068/ERP/blob/main/public/AddProduct.jpg))
 3. Edit existing products.
 4. Delete products.
 
@@ -87,7 +87,7 @@ The Orders Management page allows you to manage orders:
 The Orders Calendar View provides a visual representation of order schedules:
 
 1. View orders on their expected delivery dates same day will be in red color mark but not selected to select a day we need to click on that date.
-![Filter Orders](https://github.com/Tarunvats9068/ERP/public/FilterOrder.jpg)
+![Filter Orders](https://github.com/Tarunvats9068/ERP/blob/main/public/FilterOrder.jpg))
 In above Screenshot 13 March 2024 is selected to filter Orders and 15 March is the present date that why colored with red.
 2. Click on a date to view all orders due for delivery that day.
 
