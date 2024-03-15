@@ -69,7 +69,7 @@ The Products Management page allows you to manage products:
 
 1. View a list of products with details such as name, category, price, and stock quantity.
 2. Add new products.
-![Add Product]((https://github.com/Tarunvats9068/ERP/blob/main/public/AddProduct.jpg))
+![Add Product](https://github.com/Tarunvats9068/ERP/blob/main/public/AddProduct.jpg)
 3. Edit existing products.
 4. Delete products.
 
