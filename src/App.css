@@ -1,0 +1,212 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  margin: 0;
+}
+.react-calendar
+{
+  background-color: #191c24 !important;
+}
+.react-calendar__tile--now
+{
+  background-color: red !important;
+}
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.dashboard-container {
+  color: white;
+  background-color: #191c24;
+  padding: 20px;
+  text-align: center;
+}
+
+.dashboard-summary {
+  display: flex;
+  justify-content:flex-start;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.summary-item {
+  margin: 0 10px;
+  height: 100px;
+  width: 150px;
+  color: rgb(210, 223, 40);
+  background-color: rgb(86, 82, 82);
+  align-items: center;
+  padding: 10px;
+  border-radius: 5%;
+  font-size: large;
+}
+.products-container, .orders-container {
+  background-color: #191c24;
+  color: white;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+th {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Buttons styles */
+.edit-btn {
+  background-color: #28a745;
+}
+
+.delete-btn {
+  background-color: #dc3545;
+}
+
+button {
+  color:white;
+  background-color:#007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+.products-container {
+  padding: 20px;
+}
+
+.add-btn {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+small{
+  margin:5px;
+}
+.add-form-container {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.save-btn, .cancel-btn {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.cancel-btn {
+  background-color: #dc3545;
+}
+
+table {
+  margin: 10px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Buttons styles */
+.edit-btn, .delete-btn {
+  color: white;
+  border: none
+}
+
+.orders-container {
+  padding: 20px;
+}
+
+.filter-container {
+  margin-bottom: 20px;
+}
+.filter-container input[type="date"] {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.filter-container button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #007bff;
+  color: white;
+}
+
+.delete-btn {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.delete-btn:hover {
+  background-color: #c82333;
+}
